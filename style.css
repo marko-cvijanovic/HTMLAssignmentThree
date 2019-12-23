@@ -1,0 +1,57 @@
+nav.home
+{
+    display: inline-block;
+	padding-right: 30px;
+}
+
+aside 
+{
+	display: inline-block;
+	padding-left: 30px;
+	border-left: 1px solid black;
+}
+
+body, nav
+{
+    font-family: Times New Roman;
+}
+
+
+table 
+{
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+}
+
+th 
+{
+    padding: 18px;
+}
+
+td 
+{
+    padding: 12px;
+}
+
+th, td 
+{
+    border: solid 1px #e6e6e6;
+}
+
+tr 
+{
+    background-color: #EDEDED;
+}
+
+tr.even 
+{
+    background-color: #F7F7F7;
+}
+
+#heading 
+{
+        background-color: #02AD8B;
+        color: white;
+}
